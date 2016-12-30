@@ -1,0 +1,29 @@
+body {
+	background-color: black;
+	background-image: url('../img/xmass.jpg');
+	background-size: 100% 100%;
+	overflow: hidden;
+	
+
+}
+
+#card {
+	overflow: hidden;
+	width: 500px;
+	height: 196px;
+	position: absolute;
+    left: 100px;
+    top: 300px;
+    z-index: -1;
+
+}
+
+#deco {
+	overflow: hidden;
+	width: 500px;
+	height: 196px;
+	position: absolute;
+    left: 100px;
+    top: 100px;
+    z-index: -1;
+}
